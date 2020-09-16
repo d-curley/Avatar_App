@@ -1,0 +1,18 @@
+{
+"companyName": "Lighthouse Disruptive Innovation Group",
+"productName": "WeShareCare Avatar",
+"productVersion": "0.1",
+"dataUrl": "WebGL9_15.data.unityweb",
+"wasmCodeUrl": "WebGL9_15.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL9_15.wasm.framework.unityweb",
+"wasmSymbolsUrl": "WebGL9_15.wasm.symbols.unityweb",
+"wasmMemoryUrl": "WebGL9_15.wasm.memory.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": true,
+"unityVersion": "2019.4.8f1"
+}
