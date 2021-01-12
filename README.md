@@ -1,1 +1,1 @@
-# Avatar_App
+# Avatar_App_Demo
